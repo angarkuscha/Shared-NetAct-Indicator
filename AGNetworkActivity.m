@@ -1,5 +1,6 @@
 //
 //  AGNetworkActivity.m
+//  Shared-NetAct-Indicator
 //
 //  Created by Andreas Garkuscha on 6/18/13.
 //  Copyright (c) 2013 Andreas Garkuscha. All rights reserved.
